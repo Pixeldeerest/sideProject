@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MZeUDcbu/kHUMCyRGFLOxM1lya2htWIdHS5KFvuxH0JTd5fstOJkMg8ePuIRf+UxduOGFp9OoLO6hXJsUPX1xg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Student\\git\\Side Projects\\RPGCharacterCreator\\RPGCharacterCreatorClient\\RPGCharacterCreatorClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Student\\.nuget\\packages\\restsharp\\106.11.7\\restsharp.106.11.7.nupkg.sha512"
+  ],
+  "logs": []
+}

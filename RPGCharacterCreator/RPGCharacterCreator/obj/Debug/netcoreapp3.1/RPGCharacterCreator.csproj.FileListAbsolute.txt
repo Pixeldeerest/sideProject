@@ -1,0 +1,5 @@
+C:\Users\Student\git\Side Projects\RPGCharacterCreator\RPGCharacterCreator\obj\Debug\netcoreapp3.1\RPGCharacterCreator.csprojAssemblyReference.cache
+C:\Users\Student\git\Side Projects\RPGCharacterCreator\RPGCharacterCreator\obj\Debug\netcoreapp3.1\RPGCharacterCreator.AssemblyInfoInputs.cache
+C:\Users\Student\git\Side Projects\RPGCharacterCreator\RPGCharacterCreator\obj\Debug\netcoreapp3.1\RPGCharacterCreator.AssemblyInfo.cs
+C:\Users\Student\git\Side Projects\RPGCharacterCreator\RPGCharacterCreator\obj\Debug\netcoreapp3.1\RPGCharacterCreator.csproj.CoreCompileInputs.cache
+C:\Users\Student\git\Side Projects\RPGCharacterCreator\RPGCharacterCreator\obj\Debug\netcoreapp3.1\RPGCharacterCreator.MvcApplicationPartsAssemblyInfo.cache
